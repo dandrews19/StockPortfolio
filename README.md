@@ -1,2 +1,10 @@
-# StockPortfolio
-This is a stock portfolio simulator that allows user to buy and sell stocks and have them updated to a portfolio. This gave me practice with dynamic memory allocation and data structures in C++.
+# ITP 365 HW01 - Spring 2021 #
+
+## Student information... ##
+Name: Dylan Andrews
+
+Email: dmandrew@usc.edu
+
+Platform: MAC
+
+### Notes ###
